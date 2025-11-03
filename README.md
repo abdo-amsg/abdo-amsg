@@ -40,7 +40,7 @@ I'm a passionate **cybersecurity consultant** with expertise in building scalabl
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=flask&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -70,11 +70,11 @@ I'm a passionate **cybersecurity consultant** with expertise in building scalabl
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdo-amsg&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdo-amsg&theme=radical&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-amsg&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
@@ -84,7 +84,7 @@ I'm a passionate **cybersecurity consultant** with expertise in building scalabl
 
 <div align="center">
   
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=abdo-amsg&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
   
 </div>
 
@@ -92,7 +92,7 @@ I'm a passionate **cybersecurity consultant** with expertise in building scalabl
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true)](https://github.com/yourusername)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdo-amsg&theme=react-dark&hide_border=true)](https://github.com/yourusername)
 
 ---
 
@@ -121,8 +121,8 @@ I'm always interested in collaborating on exciting projects or discussing new te
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
   
-  ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/abdo-amsg/count.svg)
   
-  ⭐️ From [yourusername](https://github.com/yourusername)
+  ⭐️ From [abdo-amsg](https://github.com/abdo-amsg)
   
 </div>
